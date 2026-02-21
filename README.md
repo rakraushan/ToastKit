@@ -1,4 +1,4 @@
-# ToasKit
+# ToastKit
 
 ## Installation
 
